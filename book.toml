@@ -1,0 +1,14 @@
+[book]
+title = "RISC-V Crypto: Исследование и реализация"
+authors = ["Фролов Кирилл", "Мирошниченко Лев"]
+language = "ru"
+multilingual = false
+src = "src"
+
+
+[build]
+create-missing = false
+
+
+[output.html.playground]
+runnable = false
