@@ -5,10 +5,11 @@ language = "ru"
 multilingual = false
 src = "src"
 
-
 [build]
 create-missing = false
 
+[output.html]
+no-section-label = true
 
 [output.html.playground]
 runnable = false
