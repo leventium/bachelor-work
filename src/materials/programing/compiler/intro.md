@@ -16,3 +16,10 @@
 - GCC
 - LLVM
 - TinyCC
+
+Ссылки:
+
+- [Документация по устройству GCC](https://gcc.gnu.org/onlinedocs/gccint/)
+- [RISC-V Opcodes](https://github.com/riscv/riscv-opcodes)
+- [TinyCC github](https://github.com/TinyCC/tinycc)
+
