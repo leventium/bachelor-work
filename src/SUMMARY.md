@@ -28,6 +28,9 @@
   - [Steel]()
 - [Программирование](./materials/programing/intro.md)
   - [Компилятор](./materials/programing/compiler/intro.md)
+    - [Ассемблерные вставки](./materials/programing/compiler/inline_asm.md)
+    - [Модифицирование компилятора](./materials/programing/compiler/modding.md)
+- [Косимуляция](./materials/cosim/intro.md)
 
 
 # Отчёты
