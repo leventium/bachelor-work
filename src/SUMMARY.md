@@ -7,7 +7,7 @@
 
 - [Полезные ссылки](./materials/links.md)
 - [Обзоры ядер](./materials/reviews/intro.md)
-  - [CV32E40P](./materials/reviews/CV32E40P.md)
+  - [CV32E40P](./materials/reviews/CV32E40P/CV32E40P.md)
   - [Ibex]()
   - [CVA6]()
   - [OPenV/mriscv]()
