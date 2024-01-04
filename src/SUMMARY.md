@@ -10,7 +10,7 @@
   - [CV32E40P](./materials/reviews/CV32E40P/CV32E40P.md)
   - [DarkRISCV](./materials/reviews/DarkRISCV/DarkRISCV.md)
   - [Ibex]()
-  - [CVA6]()
+  - [CVA6](./materials/reviews/CVA6/CVA6.md)
   - [OPenV/mriscv]()
   - [Roa Logic RV12]()
   - [SCR1]()
@@ -40,3 +40,4 @@
 - [13.11.2023 => 19.11.2023](./reports/2023-11-13/report.md)
 - [20.11.2023 => 26.11.2023](./reports/2023-11-20/report.md)
 - [27.11.2023 => 3.12.2023](./reports/2023-11-27/report.md)
+- [11.12.2023 => 17.12.2023](./reports/2023-12-11/report.md)
