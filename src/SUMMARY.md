@@ -15,7 +15,7 @@
   - [Roa Logic RV12]()
   - [SCR1]()
   - [Hummingbird E200]()
-  - [PicoRV32]()
+  - [PicoRV32](./materials/reviews/PicoRV32/PicoRV32.md)
   - [SERV]()
   - [SweRV EH1]()
   - [SweRV EL2]()
@@ -41,3 +41,4 @@
 - [20.11.2023 => 26.11.2023](./reports/2023-11-20/report.md)
 - [27.11.2023 => 3.12.2023](./reports/2023-11-27/report.md)
 - [11.12.2023 => 17.12.2023](./reports/2023-12-11/report.md)
+- [08.01.2024 => 14.01.2024](./reports/2024-01-08/report.md)
