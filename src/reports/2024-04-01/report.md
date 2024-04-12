@@ -90,11 +90,11 @@ module sr_ram #(
     end
 
 endmodule
-
 ```
 
 
 ```verilog
+// sr_control.v
 
 module sr_control
 (
@@ -304,5 +304,4 @@ module sr_control
         endcase
     end
 endmodule
-
 ```
